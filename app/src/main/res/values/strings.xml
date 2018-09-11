@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Box Led Test</string>
+    <string name="change">Change BOX Led state</string>
+</resources>
